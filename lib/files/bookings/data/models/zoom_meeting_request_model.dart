@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:intl/intl.dart';
 import 'package:equatable/equatable.dart';
+import 'package:intl/intl.dart';
 import 'package:tuiicore/core/enums/enums.dart';
 
 class ZoomMeetingRequestModel extends Equatable {
