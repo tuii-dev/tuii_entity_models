@@ -1,4 +1,4 @@
-name: tuii_entity_models
+name: tuiientitymodels
 description: A new Flutter package project.
 version: 0.0.1
 homepage:
@@ -16,6 +16,7 @@ dependencies:
   firebase_auth: ^4.10.1
   flutter:
     sdk: flutter
+  intl: ^0.17.0
   tuiicore:
     path: ../tuiicore/
 
